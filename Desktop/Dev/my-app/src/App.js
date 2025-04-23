@@ -5,7 +5,7 @@ import "./App.css";
 
 function App() {
   function cliqueiNoBotao() {
-    console.log("Clicou no botão");
+    console.log("fui clicado");
   }
 
   return (
