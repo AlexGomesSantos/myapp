@@ -4,9 +4,7 @@ import Image from "./img/people.svg";
 import "./App.css";
 
 function App() {
-  function cliqueiNoBotao() {
-    console.log("fui clicado");
-  }
+  function cliqueiNoBotao() {}
 
   return (
     <div>
