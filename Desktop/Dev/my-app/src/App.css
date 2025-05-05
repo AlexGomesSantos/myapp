@@ -1,5 +1,10 @@
+.app {
+  text-align: center;
+
+
 img {
   display: block;
+  
 }
 
 textarea {
@@ -8,4 +13,5 @@ textarea {
 
 button {
   display: block;
+  
 }
